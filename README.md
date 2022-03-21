@@ -1,6 +1,6 @@
 # SSHPLUS
 
-apt update -y && apt upgrade -y && wget Rickz777 && chmod 777 Plus && ./Plus
+apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/Rickz777/SSHPLUS/master/Plus && chmod 777 Plus && ./Plus
 
 
 #Acessa Root
